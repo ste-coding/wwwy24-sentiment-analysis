@@ -29,8 +29,13 @@ Analysis Steps:
 ## Interpretation of Results
 The average sentiment score suggests that, overall, the tweets reflect a positive perception of the festival, although there is also a considerable amount of negative feedback. This indicates a spectrum of opinions that may reflect both enthusiasm for the event and the criticisms it faced.
 
-## Next steps
+## My next steps
 - Analyze how the perception of the festival changed over time, especially between its first edition in 2023 and the current 2024 edition.
 - Use topic modeling techniques to identify the main themes discussed in the tweets.
 - Create interactive charts and graphs to explore sentiment trends in more depth.
 - Create and train my own NLP model
+
+## Some materials and artcles I am using to learn
+- Get a look at [this notebook](https://www.kaggle.com/code/leonalinlin/natural-language-processing-nlp-for-beginners)!
+
+- Sure you'll find some of [these videos](https://www.youtube.com/playlist?list=PLFD4-YcGPYO017ejo-wSrguR4kU7NsaH0) interesting
