@@ -16,7 +16,7 @@ This project involves the extraction and sentiment analysis of tweets regarding 
 For scraping this data, I used the [twikit package](https://twikit.readthedocs.io/en/latest/twikit.html).
 
  ## Sentiment Analysis
-For sentiment analysis, I used a NLP (Natural Language Processing) model called Twitter-Roberta-Base-Sentiment, which is a version of the RoBERTa model adapted for tweets. This model classifies sentiments into three categories: positive, negative, and neutral.
+For sentiment analysis, I used a NLP (Natural Language Processing) model called [Twitter-Roberta-Base-Sentiment](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment), which is a version of the RoBERTa model adapted for tweets. This model classifies sentiments into three categories: positive, negative, and neutral.
 
 Analysis Steps:
 1. Data Loading: Import the CSV files containing the tweets.
